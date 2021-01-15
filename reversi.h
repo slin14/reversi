@@ -1,5 +1,3 @@
-// a5.h
-
 #include <iostream>
 #include "cmpt_error.h"
 #include <vector>
